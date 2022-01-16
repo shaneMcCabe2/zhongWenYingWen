@@ -1,16 +1,16 @@
-**Script Details**
+### **Script Details**
 
-This script will translate a phrase to Chinese simplified characters and pinyin and then translate it back to English using Google Translate API
+- This script will translate a phrase to Chinese simplified characters and pinyin and then translate it back to English using Google Translate API
 
-Google Translate API Documentation: https://py-googletrans.readthedocs.io/en/latest/
+- Google Translate API Documentation: https://py-googletrans.readthedocs.io/en/latest/
 
 
 
-*Note, in order to view Chinese characters I used Git Bash as PowerShell was not displaying characters properly (also need to enable Unicode UTF-8 on Windows machines):
+- **Note, in order to view Chinese characters I used Git Bash as PowerShell was not displaying characters properly (also need to enable Unicode UTF-8 on Windows machines):
 https://stackoverflow.com/questions/57131654/using-utf-8-encoding-chcp-65001-in-command-prompt-windows-powershell-window/57134096#57134096
 
 
-**Project Notes**
+### **Project Notes**
 
 - File management: first I created the directory, created the pipenv virtual environment, and installed googletrans to the virtual environment. I used Powershell to complete these tasks (later switched to Git Bash).
 
